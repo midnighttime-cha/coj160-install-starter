@@ -36,7 +36,7 @@ yarn start
 
 # ติดตั้ง Back Office
 ```sh
-git clone https://[Your Github Access Token]:github.com/midnighttime-cha/coj160-migration-backoffice.git office
+git clone https://[Your Github Access Token]:github.com/midnighttime-cha/coj160-migration-office.git office
 cd office
 yarn install
 yarn dev --open
